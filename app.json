@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "SOLAR SAFE",
+    "slug": "SOLAR SAFE",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/abc.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/abc.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/abc.png"
+    }
+  }
+}
