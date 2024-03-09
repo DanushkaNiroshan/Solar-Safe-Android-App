@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "SOLAR SAFE",
-    "slug": "SOLAR SAFE",
+    "slug": "SOLAR-SAFE",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/abc.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/abc.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.danushka1998.SOLARSAFE"
     },
     "web": {
       "favicon": "./assets/abc.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3b7602a1-9da1-40ae-88f0-61c7902e8d11"
+      }
     }
   }
 }
