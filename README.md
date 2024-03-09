@@ -41,4 +41,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 For any inquiries or feedback regarding the Solar Safe React Native App, please contact:
 
 - [Danushka](danushkaniroshan1998@gmail.com) - Project Lead
-- [Project Repository](https://github.com/yourusername/solar-safe-react-native-app) - GitHub Repository
+- [Project Repository](https://github.com/DanushkaNiroshan/Solar-Safe-Android-App) - GitHub Repository
